@@ -1,0 +1,4 @@
+TableName,Column Name,description1,description2,description3
+Table,,description of table,,
+,name,describes column,seconds,more description
+,age,This is the age of the person,years,The age can only be from 0 – 100
